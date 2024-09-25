@@ -112,6 +112,12 @@
   }
 }
 
+@media (width <768px) {
+  .header__theme-menu {
+    margin-top: 10px;
+  }
+}
+
 .header__theme-menu-button {
   font-size: 18px;
   line-height: 18px;
