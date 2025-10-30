@@ -1,5 +1,3 @@
-https://github.com/LEGION13-alt/slozhno-sosredotochitsya.git
-
 # «Сложно сосредоточиться»
 
 Адаптивный лендинг с системой переключения светлой и тёмной тем
